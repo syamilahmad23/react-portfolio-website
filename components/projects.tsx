@@ -26,6 +26,21 @@ export default function Projects() {
       category: "UI/UX",
       image: "/poster.png",
     },
+    {
+      title: "Poster Desain Grafis",
+      category: "UI/UX",
+      image: "/poster.png",
+    },
+        {
+      title: "Poster Desain Grafis",
+      category: "UI/UX",
+      image: "/poster.png",
+    },
+        {
+      title: "Poster Desain Grafis",
+      category: "UI/UX",
+      image: "/poster.png",
+    },
   ]
 
   const filteredProjects =
