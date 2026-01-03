@@ -14,15 +14,15 @@ export default function Testimonials() {
       name: "Wadhyu Adji",
       role: "Barista Coffee Shop",
       quote:
-        "Desain mudah di pahami, Sangat dan jalan. Sangat memenutu untuk operasional coffee shop. diupayakan untuk hakin bekerja kasino customer langsung Sangat dalam.",
-      image: "/professional-man-portrait.png",
+        "Desain mudah di pahami, Simpel dan jelas. Sangat membantu untuk operasional coffee shop ataupun usaha yang berbasis ketemu customer langsung. Sangat efisien",
+      image: "/jeko.jpeg",
     },
     {
       name: "Rina Sari",
       role: "Owner UMKM",
       quote:
         "Aplikasi e-commerce yang dibuat sangat membantu usaha saya. Desainnya user-friendly dan mudah digunakan oleh pelanggan. Terima kasih!",
-      image: "/professional-woman-portrait.png",
+      image: "/desi.jpeg",
     },
     {
       name: "Budi Santoso",

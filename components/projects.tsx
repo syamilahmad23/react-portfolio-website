@@ -14,17 +14,17 @@ export default function Projects() {
     {
       title: "Desain Aplikasi Kasir Coffee Shop",
       category: "App Design",
-      image: "/coffee-shop-pos-app-design.jpg",
+      image: "/geisha.png",
     },
     {
       title: "Desain Aplikasi E-Commerce UMKM",
       category: "App Design",
-      image: "/ecommerce-mobile-app-ui.png",
+      image: "/umkm.png",
     },
     {
-      title: "Macam-Macam Desain Aplikasi",
+      title: "Poster Desain Grafis",
       category: "UI/UX",
-      image: "/modern-app-interface.png",
+      image: "/poster.png",
     },
   ]
 
@@ -64,7 +64,7 @@ export default function Projects() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredProjects.map((project, index) => (
             <Card key={index} className="group overflow-hidden hover:shadow-xl transition-all duration-300">
-              <div className="relative aspect-[4/3] overflow-hidden bg-muted">
+              <div className="relative aspect-[4/4] overflow-hidden bg-muted">
                 <Image
                   src={project.image || "/placeholder.svg"}
                   alt={project.title}
