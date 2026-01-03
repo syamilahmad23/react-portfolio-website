@@ -29,7 +29,7 @@ export default function Testimonials() {
       role: "Founder Startup",
       quote:
         "Profesional dan tepat waktu. Desain UI/UX yang dibuat sangat sesuai dengan kebutuhan startup kami. Highly recommended!",
-      image: "/professional-businessman.png",
+      image: "/aku3.JPG",
     },
   ]
 
