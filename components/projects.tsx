@@ -13,32 +13,32 @@ export default function Projects() {
   const projects = [
     {
       title: "Desain Aplikasi Kasir Coffee Shop",
-      category: "App Design",
+      category: "Web Design",
       image: "/gesa.png",
     },
     {
       title: "Desain Aplikasi E-Commerce UMKM",
-      category: "App Design",
+      category: "UI/UX",
       image: "/kalori.png",
     },
     {
       title: "Desain Grafis Poster",
-      category: "UI/UX",
+      category: "Graphic Design",
       image: "/poster.png",
     },
     {
       title: " Desain Konten Media Sosial",
-      category: "UI/UX",
+      category: "Graphic Design",
       image: "/medsos.png",
     },
         {
       title: "Desain Materi Promosi Fisik",
-      category: "UI/UX",
+      category: "Graphic Design",
       image: "/promosi.png",
     },
         {
       title: "Tipografi Ekspresif",
-      category: "UI/UX",
+      category: "Graphic Design",
       image: "/typo.png",
     },
   ]
