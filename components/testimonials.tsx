@@ -18,18 +18,18 @@ export default function Testimonials() {
       image: "/jeko.jpeg",
     },
     {
-      name: "Rina Sari",
+      name: "Desi Ratna",
       role: "Owner UMKM",
       quote:
         "Aplikasi e-commerce yang dibuat sangat membantu usaha saya. Desainnya user-friendly dan mudah digunakan oleh pelanggan. Terima kasih!",
       image: "/desi.jpeg",
     },
     {
-      name: "Budi Santoso",
+      name: "Iqbal Majid",
       role: "Founder Startup",
       quote:
         "Profesional dan tepat waktu. Desain UI/UX yang dibuat sangat sesuai dengan kebutuhan startup kami. Highly recommended!",
-      image: "/aku3.JPG",
+      image: "/ciba.jpeg",
     },
   ]
 
