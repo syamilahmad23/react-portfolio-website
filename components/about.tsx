@@ -24,7 +24,7 @@ export default function About() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Tentang Saya</h2>
               <p className="text-muted-foreground leading-relaxed text-pretty">
-                Terbiasa bekerja dalam tim dan mengelola proyek desain. Siap berkontribusi sebagai UI/UX Designer dengan menggabungkan keterampilan desain dan teknologi.
+                Terbiasa bekerja dalam tim dan mengelola proyek desain. Siap berkontribusi sebagai Designer dengan menggabungkan keterampilan desain dan teknologi.
               </p>
             </div>
 

@@ -15,7 +15,7 @@ export default function Hero() {
               <h2 className="text-4xl md:text-6xl font-bold leading-tight text-balance">UI & UX Designer</h2>
             </div>
             <p className="text-muted-foreground leading-relaxed max-w-md text-pretty">
-              Saya merupakan Mahasiswa semester 7 Teknik Informatika dengan keahlian dalam UI/UX desain. Berpengalaman dalam Figma, serta memiliki portofolio dalam pembuatan desain UI/UX.
+              Saya merupakan Mahasiswa semester akhir Teknik Informatika dengan keahlian dalam UI/UX desain. Berpengalaman dalam Figma, serta memiliki portofolio dalam pembuatan desain grafis.
             </p>
             <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">Kemampuan</Button>
           </div>

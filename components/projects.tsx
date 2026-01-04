@@ -14,32 +14,32 @@ export default function Projects() {
     {
       title: "Desain Aplikasi Kasir Coffee Shop",
       category: "App Design",
-      image: "/geisha.png",
+      image: "/gesa.png",
     },
     {
       title: "Desain Aplikasi E-Commerce UMKM",
       category: "App Design",
-      image: "/umkm.png",
+      image: "/kalori.png",
     },
     {
-      title: "Poster Desain Grafis",
+      title: "Desain Grafis Poster",
       category: "UI/UX",
       image: "/poster.png",
     },
     {
-      title: "Poster Desain Grafis",
+      title: " Desain Konten Media Sosial",
       category: "UI/UX",
-      image: "/poster.png",
+      image: "/medsos.png",
     },
         {
-      title: "Poster Desain Grafis",
+      title: "Desain Materi Promosi Fisik",
       category: "UI/UX",
-      image: "/poster.png",
+      image: "/promosi.png",
     },
         {
-      title: "Poster Desain Grafis",
+      title: "Tipografi Ekspresif",
       category: "UI/UX",
-      image: "/poster.png",
+      image: "/typo.png",
     },
   ]
 
